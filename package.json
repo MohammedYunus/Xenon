@@ -1,0 +1,14 @@
+{
+  "name": "yunmoh_zco",
+  "version": "1.0.0",
+  "description": "self",
+  "main": "table-base.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunus",
+  "license": "ISC",
+  "keywords": [
+    "xenon"
+  ]
+}
